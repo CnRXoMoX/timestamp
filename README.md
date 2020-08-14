@@ -16,6 +16,6 @@ For Functions visit [This Forum](https://forum.sa-mp.com/showthread.php?t=663394
 # Credits
 Name | Message
 --- | --- |
-[Gammix] | For the include himself
+[Gammix] | For the include itself
 [SAMP TEAM] | For Creating Samp
 
