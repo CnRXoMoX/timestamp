@@ -11,6 +11,8 @@ The reasoning behind this is to make this sampctl compatible
 To download this repo simply type 
 `sampctl p install CnRXoMoX/timestamp`
 
+For Functions visit [This Forum](https://forum.sa-mp.com/showthread.php?t=663394)
+
 # Credits
 Name | Message
 --- | --- |
