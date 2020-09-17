@@ -4,7 +4,7 @@
 This repo is for sampctl.
 
 Since timestamp don't have a github yet.
-The reasoning behind this is to make this sampctl compatible
+Timestamp stand alone
 
 ## Installation
 ### sampctl
